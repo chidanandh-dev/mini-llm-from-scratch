@@ -31,5 +31,5 @@ The model learns to predict the **next character** in a sequence, which is the f
 
 ---
 
-## 📂 Project Structure
+
 
